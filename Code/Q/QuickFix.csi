@@ -1,0 +1,16 @@
+[History]
+1=#P0#=mb	#P1#=cmdSet_Click	#P2#=OneClick/frmMain/cmdSet_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090827132129	#P7#=0	#P8#=1	.
+2=#P0#=mb	#P1#=Form_Load	#P2#=OneClick/frmMain/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090827133136	#P7#=-2147483640	#P8#=6	.
+3=#P0#=mb	#P1#=FVistaUniButton3_Click	#P2#=OneClick/frmMain/FVistaUniButton3_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090510170838	#P7#=0	#P8#=17	.
+4=#P0#=mb	#P1#=AutorunView	#P2#=OneClick/frmMain/AutorunView	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090510165910	#P7#=0	#P8#=5	.
+5=#P0#=mb	#P1#=AutorunProtect	#P2#=OneClick/frmMain/AutorunProtect	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090510165808	#P7#=0	#P8#=4	.
+6=#P0#=mb	#P1#=GetComputerInfo	#P2#=OneClick/frmMain/GetComputerInfo	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090509211339	#P7#=0	#P8#=8	.
+7=#P0#=mb	#P1#=CheckVirus	#P2#=OneClick/frmMain/CheckVirus	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20090509211318	#P7#=0	#P8#=0	.
+8=#P0#=mb	#P1#=FVistaUniButton2_Click	#P2#=OneClick/frmMain/FVistaUniButton2_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090509210740	#P7#=0	#P8#=1	.
+9=#P0#=mb	#P1#=cmdKiemtra_Click	#P2#=OneClick/frmMain/cmdKiemtra_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090509163049	#P7#=0	#P8#=34	.
+10=#P0#=mb	#P1#=Form_Unload	#P2#=OneClick/frmMain/Form_Unload	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090508170311	#P7#=0	#P8#=15	.
+11=#P0#=mb	#P1#=UNICODE_To_ANSI	#P2#=OneClick/StringConvert/UNICODE_To_ANSI	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090508170243	#P7#=-2147483640	#P8#=0	.
+12=#P0#=mb	#P1#=tmrStatus_Timer	#P2#=OneClick/frmPlash/tmrStatus_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090507182147	#P7#=0	#P8#=4	.
+13=#P0#=mb	#P1#=ClockHelp_MouseEnter	#P2#=OneClick/frmMain/ClockHelp_MouseEnter	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090507182032	#P7#=0	#P8#=1	.
+14=#P0#=mb	#P1#=cmdCheck_Click	#P2#=OneClick/frmUpdate/cmdCheck_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090506214824	#P7#=0	#P8#=0	.
+15=#P0#=mb	#P1#=Timer1_Timer	#P2#=OneClick/frmMain/Timer1_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20090506214738	#P7#=0	#P8#=5	.
